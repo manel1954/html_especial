@@ -1,0 +1,4 @@
+# Impedir acceso directo a archivos PHP del directorio "includes"
+<FilesMatch "\.(php)$">
+  Deny from all
+</FilesMatch>

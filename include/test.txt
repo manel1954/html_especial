@@ -1,0 +1,10 @@
+M: 2023-07-17 11:35:29.936 DMR Talker Alias (Data Format 1, Received 6/27 char): 'HL3GHJ'
+M: 2023-07-17 11:35:30.651 DMR Talker Alias (Data Format 1, Received 13/27 char): 'HL3GHJ Sejong'
+M: 2023-07-17 11:35:31.371 DMR Talker Alias (Data Format 1, Received 20/27 char): 'HL3GHJ Sejong-si, Ko'
+M: 2023-07-17 11:35:31.927 DMR Talker Alias (Data Format 1, Received 27/27 char): 'HL3GHJ Sejong-si, Korea DVS'
+M: 2023-07-17 11:35:31.932 DMR Slot 2, received network end of voice transmission, 3.0 seconds, 0% packet loss, BER: 10.8%
+M: 2023-07-17 12:08:15.374 DMR, Remote CMD: menu=adv_main.txt
+M: 2023-07-17 12:08:45.214 DMR, Remote CMD: menu=adv_main.txt
+M: 2023-07-17 12:08:45.256 DMR, Remote CMD: codec=slin
+M: 2023-07-17 12:17:45.234 DMR Slot 2, received network voice header from HL1ADD to TG 450
+M: 2023-07-17 12:17:45.592 DMR Slot 2, received network end of voice transmission, 0.5 seconds, 0% packet loss, BER: 0.0%
