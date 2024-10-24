@@ -163,10 +163,10 @@ $tg = " TG: " . substr($tg, 13, 10);
       
 
 
-        <div  class="col-md-4 text-center thumbnail"><br>
+<!--         <div  class="col-md-4 text-center thumbnail"><br>
                          <img src="../img/HBLINK_logoV2.png" width="319" ></img><br>
                           <a href="../index_dashboard.php" class="btn btn-warning btn-sm">HBlink`DASHBOARDLINK3</a>
-                     </div>
+                     </div> -->
 
  </div><!-- row -->                    
 <!-- ============================================================================================= -->
